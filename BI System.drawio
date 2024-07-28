@@ -83,16 +83,16 @@
           <mxGeometry x="1150" y="616" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HeF1r-1OInbjSPL_0QU-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860" y="820" width="80" height="78" as="geometry" />
+          <mxGeometry x="860" y="790" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5HeF1r-1OInbjSPL_0QU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5HeF1r-1OInbjSPL_0QU-15" source="3zb5dEngo5m83mmzxv08-21" target="5HeF1r-1OInbjSPL_0QU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zb5dEngo5m83mmzxv08-21" value="&lt;font face=&quot;Comic Sans MS&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;INTERNET&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;dashed=1;dashPattern=8 8;" parent="5HeF1r-1OInbjSPL_0QU-15" vertex="1">
-          <mxGeometry y="69" width="80" height="9" as="geometry" />
+          <mxGeometry x="13" y="109.30769230769232" width="112" height="12.692307692307693" as="geometry" />
         </mxCell>
         <mxCell id="5HeF1r-1OInbjSPL_0QU-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5HeF1r-1OInbjSPL_0QU-15">
-          <mxGeometry width="79.5" height="54" as="geometry" />
+          <mxGeometry width="140" height="84.61538461538463" as="geometry" />
         </mxCell>
         <mxCell id="5HeF1r-1OInbjSPL_0QU-23" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="409.99999999999994" y="1067.38" width="79.5" height="54" as="geometry" />
