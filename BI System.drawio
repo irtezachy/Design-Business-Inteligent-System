@@ -89,7 +89,7 @@
         <mxCell id="5HeF1r-1OInbjSPL_0QU-29" value="EC2 Instance" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
           <mxGeometry x="1272" y="1055.38" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="5HeF1r-1OInbjSPL_0QU-30" value="&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Security Group&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5HeF1r-1OInbjSPL_0QU-30" value="&lt;h1 style=&quot;line-height: 100%;&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Security Group&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="810" y="1065.38" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HeF1r-1OInbjSPL_0QU-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
